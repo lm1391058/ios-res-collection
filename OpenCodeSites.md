@@ -9,3 +9,7 @@
 + *https://bbs.pediy.com/thread-229601.htm*  
   分享一些关于苹果iTunes授权流程的东西
   来自看雪论坛，这个授权流程有点像Authkit里session和qualify
++ *https://gist.github.com/knightsc/758783181e41a986fceea6901b8853e3*  
+  AKNativeAnisetteService.m  
+  逆向成OC代码
+
