@@ -3,4 +3,7 @@
   使用IOKit读取AppleKeyStore
 
 
-+ *http://none*
++ *https://vtky.github.io/2020/05/19/appleid-auth-part-1*
+  gsa登录协议分析
+  
+  
