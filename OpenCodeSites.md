@@ -3,7 +3,9 @@
   使用IOKit读取AppleKeyStore
 
 
-+ *https://vtky.github.io/2020/05/19/appleid-auth-part-1*
++ *https://vtky.github.io/2020/05/19/appleid-auth-part-1*  
   gsa登录协议分析
   
-  
++ *https://bbs.pediy.com/thread-229601.htm*  
+  分享一些关于苹果iTunes授权流程的东西
+  来自看雪论坛，这个授权流程有点像Authkit里session和qualify
