@@ -13,3 +13,8 @@
   AKNativeAnisetteService.m  
   逆向成OC代码
 
++ *https://www.duffy.app/blog/icloud-auth-headers*  
+  iCloud Authentication Headers - Explained  
+  Anisette data参数介绍  
+  
+  
